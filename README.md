@@ -20,5 +20,4 @@ Probability, central tendency, spread/variance, normal and skewed distributions,
 ## Tools
 Python, NumPy, pandas, seaborn, SciPy
 
-## Learned from
-Sheryians AI School's free stats course on YouTube
+e
