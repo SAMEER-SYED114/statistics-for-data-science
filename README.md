@@ -20,4 +20,3 @@ Probability, central tendency, spread/variance, normal and skewed distributions,
 ## Tools
 Python, NumPy, pandas, seaborn, SciPy
 
-e
