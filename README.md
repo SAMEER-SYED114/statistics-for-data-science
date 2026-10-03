@@ -1,22 +1,33 @@
-# statistics-for-data-science
-Applied statistics in Python: outlier detection, z-test, t-tests, chi-square and ANOVA using NumPy, pandas, seaborn and SciPy
+# Statistics & Linear Algebra
 
+Practice notebooks covering core statistics and linear algebra concepts, built as part of my self-study journey toward a Data Science / GenAI role.
 
-# Statistics for Data Science
+## Contents
 
-Applied statistics in Python using NumPy, pandas, seaborn and SciPy.
+### Hypothesis Testing
+- Outliers & 5-number summary
+- Z-test (using p-value)
+- T-test
+- Two-sample test
+- Chi-square test
+- ANOVA test
 
-## What's inside
-- Outlier detection: 5-number summary, IQR rule, boxplots
-- Z-test (p-value approach)
-- One-sample t-test
-- Two-sample t-test (Welch's)
-- Chi-square test: Titanic, sex vs survival
-- ANOVA: Titanic, age across passenger classes
+### Linear Algebra
+- Vector addition
+- Scalar multiplication with vectors
+- Dot product
+- Cross product
+- Projection
 
-## Concepts learned
-Probability, central tendency, spread/variance, normal and skewed distributions, z-scores, covariance and correlation, hypothesis testing.
+## Tech Stack
+- Python
+- NumPy
+- Pandas
+- SciPy
 
-## Tools
-Python, NumPy, pandas, seaborn, SciPy
+## Status
+🚧 Actively updated as I keep learning. More topics (regression, PCA, ML basics) coming soon.
+
+## Feedback
+Open to suggestions and feedback — feel free to raise an issue or connect with me.
 
